@@ -1,0 +1,16 @@
+
+controls/flight/rudder 
+controls/engines/current-engine/throttle
+controls/flight/elevators
+controls/flight/alieron
+
+position/longitude-deg
+position/latitude-deg
+
+settings:
+info port
+command port
+ip
+
+
+connect 
