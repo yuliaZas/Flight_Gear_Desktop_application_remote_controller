@@ -53,7 +53,7 @@ in order to see the possible set commands you can check the attache xml file : g
 
 - screen after sending the command :
 
-### update command of throttle- image
+![update auto command of throttle](https://user-images.githubusercontent.com/45918656/72073075-da5c1480-32f7-11ea-8868-d885c7040df2.png)
 
 - on the right side of the app you can see the path of the plane while you flying the aircraft.
 
