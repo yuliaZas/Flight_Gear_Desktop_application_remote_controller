@@ -61,4 +61,4 @@ in order to see the possible set commands you can check the attache xml file : g
 
 - Now fly the plane with the joystick and try not to crash.
 
-### flying the simulator- image
+<img width="464" alt="flying the simulator" src="https://user-images.githubusercontent.com/45918656/72073198-1e4f1980-32f8-11ea-9e54-706a6a6be59b.png">
