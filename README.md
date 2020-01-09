@@ -28,7 +28,7 @@ This project enable you to control the flying commands simulator and get info of
 Inorder to connect to the simulator - click on "Setting" button and check if the communication deatils are correct,
 if they are updated click on the "Connect" button.
 
-### simulator screen - image
+<img width="507" alt="simulator screen" src="https://user-images.githubusercontent.com/45918656/72072644-13e05000-32f7-11ea-9308-df0c607b5a36.png">
 
 now the run the flight simulator - run the .exe file of the filghtgear simulation you have been downloaded and press on "fly" button.
 
