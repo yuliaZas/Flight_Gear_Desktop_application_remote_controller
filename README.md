@@ -48,7 +48,8 @@ In the App you can choose how to send the commands - by manual or by auto pilot.
 ```
 in order to see the possible set commands you can check the attache xml file : generic_small.xml
 ```
-### changing the throttle by auto command- image
+
+![changing the throttle by auto command](https://user-images.githubusercontent.com/45918656/72072992-b7316500-32f7-11ea-8f8a-507a13b23af3.png)
 
 - screen after sending the command :
 
