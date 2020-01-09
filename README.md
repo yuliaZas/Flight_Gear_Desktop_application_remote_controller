@@ -35,12 +35,14 @@ now the run the flight simulator - run the .exe file of the filghtgear simulatio
 ![start screen after connection](https://user-images.githubusercontent.com/45918656/72072738-40946780-32f7-11ea-94ec-8d637411fada.png)
 
 **Fying plane**
+
 in simulator press on "Autostart" for warming the engieen, afterwards you have to push the throtle.
 you can do it thoghout the simulator or throgh my application . 
 In the App you can choose how to send the commands - by manual or by auto pilot.
 
 - by manual :
-### insert trothel - image
+
+![insert trothel](https://user-images.githubusercontent.com/45918656/72072847-6faad900-32f7-11ea-9811-3de54ac27e6b.png)
 
 - by auto pilot , after typing the commands - press the send in order to send the simulator commands.
 ```
