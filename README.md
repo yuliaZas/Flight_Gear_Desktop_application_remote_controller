@@ -32,7 +32,7 @@ if they are updated click on the "Connect" button.
 
 now the run the flight simulator - run the .exe file of the filghtgear simulation you have been downloaded and press on "fly" button.
 
-### start screen after connection - image
+![start screen after connection](https://user-images.githubusercontent.com/45918656/72072738-40946780-32f7-11ea-94ec-8d637411fada.png)
 
 **Fying plane**
 in simulator press on "Autostart" for warming the engieen, afterwards you have to push the throtle.
