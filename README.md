@@ -57,7 +57,7 @@ in order to see the possible set commands you can check the attache xml file : g
 
 - on the right side of the app you can see the path of the plane while you flying the aircraft.
 
-### flightboard screen- image
+<img width="462" alt="flightboard screen" src="https://user-images.githubusercontent.com/45918656/72073144-011a4b00-32f8-11ea-85fa-0bd44d40ac05.png">
 
 - Now fly the plane with the joystick and try not to crash.
 
